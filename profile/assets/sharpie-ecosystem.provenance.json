@@ -1,0 +1,19 @@
+{
+  "generator": "OpenAI built-in imagegen",
+  "source": "exec-335b9f29-e51f-474b-99d7-2b6dd9a4b0b7.png",
+  "source_sha256": "722d7aeb3ac83d0a8a930f9131855fea39f1702356317ce1a4bfb90f41f4131f",
+  "action": "Sharpie stands behind a low tabletop physically connecting three chunky simple symbols with a mint cord: a doorway for game server, a puzzle tile for packages, and a small terminal window for clients. One forepaw holds the cord plug touching terminal socket, other steadies doorway. This is one connected compact scene showing an ecosystem, not several duplicated cats.",
+  "reference": "Approved minimal Sharpie logo; mint #00DDB3, ink #17333E, white",
+  "constraints": "Flat colors; no palette normalization; native alpha; rounded white hind paws; complete silhouette",
+  "export": "Lossless optimized PNG; exact RGBA round-trip verified",
+  "size": [
+    1254,
+    1254
+  ],
+  "alpha_bounds": [
+    0,
+    29,
+    1222,
+    1240
+  ]
+}
