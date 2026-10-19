@@ -1,4 +1,6 @@
-# Build worlds. Tell stories. Keep MUSHing.
+# <img src="https://raw.githubusercontent.com/SharpMUSH/SharpMUSH/main/Solution%20Files/Logo.svg" width="56" height="56" alt="" /> SharpMUSH
+
+**Build worlds. Tell stories. Keep MUSHing.**
 
 SharpMUSH is an open-source toolkit for multiplayer text worlds: a modern MUSH server, reusable softcode packages and clients for connecting to the worlds people create.
 
@@ -7,8 +9,6 @@ SharpMUSH is an open-source toolkit for multiplayer text worlds: a modern MUSH s
 <p align="center">
   <img src="./assets/sharpie-ecosystem.png" width="400" alt="Sharpie connects a world doorway, a package module and a client terminal." />
 </p>
-
-Meet **Sharpie**, our mascot and fellow world builder.
 
 ## Find your starting point
 
